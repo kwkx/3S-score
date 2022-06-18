@@ -1,0 +1,11 @@
+Fixed parameters,Changed parameters,takeover time (second)
+"Nindividual = 50, Ngeneration=50,Nmg=10",Selection operator = Roulette,520¡À10.1
+"Nindividual = 50, Ngeneration=50,Nmg=10",Selection operator = Rank,546¡À3.6
+"Nindividual = 50, Ngeneration=50,Nmg=10",Selection operator = Tournament,588¡À7.2
+"Selection operator = Roulette, Nindividual = 50, Ngeneration=50",Nmg=10,520¡À10.1
+"Selection operator = Roulette, Nindividual = 50, Ngeneration=50",Nmg=20,516¡À8.4
+"Selection operator = Roulette, Nindividual = 50, Ngeneration=50",Nmg=30,550¡À9.8
+"Selection operator = Roulette, Ngeneration=50,Nmg=10",Nindividual=30,380¡À4.4
+"Selection operator = Roulette, Ngeneration=50,Nmg=10",Nindividual=50,520¡À10.1
+"Selection operator = Roulette, Ngeneration=50,Nmg=10",Nindividual=80,848¡À19.0
+,,
